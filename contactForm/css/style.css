@@ -4,7 +4,7 @@
 }
 
 body {
-  background-image: radial-gradient(#e96443, #904e95);
+  background: -moz-radial-gradient(#e96443, #904e95);
 }
 
 .container {
